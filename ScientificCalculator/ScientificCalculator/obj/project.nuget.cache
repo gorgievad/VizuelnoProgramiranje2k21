@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RMWQdOBn6tlcLWl4CdKgiVVcyhiVoc0VOrbrHKGyCBgXWcnfXYstdmKgrtS5wNI6AM7jdfv4LrDIrlg7xp4aQ==",
+  "dgSpecHash": "jq2DmV2ADoYugcYmKJUrqXdVXUSoFtI4zf9ctYCkRpOHycQjjVxPD7SjO3hCRMRC4tSeLz4rlVLfJ1T9Mq+dPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\ScientificCalculator\\ScientificCalculator\\ScientificCalculator.csproj",
+  "projectFilePath": "C:\\Users\\user\\ScientificCalculator\\ScientificCalculator\\ScientificCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

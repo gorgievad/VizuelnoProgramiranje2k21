@@ -1,0 +1,7 @@
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csprojAssemblyReference.cache
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.Form1.resources
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.Properties.Resources.resources
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfoInputs.cache
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfo.cs
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.CoreCompileInputs.cache
