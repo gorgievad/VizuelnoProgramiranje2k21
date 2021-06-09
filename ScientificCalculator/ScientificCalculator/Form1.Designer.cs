@@ -72,9 +72,10 @@ namespace ScientificCalculator
             this.number1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number1.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number1.Location = new System.Drawing.Point(93, 514);
+            this.number1.Location = new System.Drawing.Point(74, 411);
+            this.number1.Margin = new System.Windows.Forms.Padding(2);
             this.number1.Name = "number1";
-            this.number1.Size = new System.Drawing.Size(72, 72);
+            this.number1.Size = new System.Drawing.Size(58, 58);
             this.number1.TabIndex = 0;
             this.number1.Text = "1";
             this.number1.UseVisualStyleBackColor = false;
@@ -85,9 +86,10 @@ namespace ScientificCalculator
             this.number2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number2.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number2.Location = new System.Drawing.Point(169, 514);
+            this.number2.Location = new System.Drawing.Point(135, 411);
+            this.number2.Margin = new System.Windows.Forms.Padding(2);
             this.number2.Name = "number2";
-            this.number2.Size = new System.Drawing.Size(72, 72);
+            this.number2.Size = new System.Drawing.Size(58, 58);
             this.number2.TabIndex = 1;
             this.number2.Text = "2";
             this.number2.UseVisualStyleBackColor = false;
@@ -98,9 +100,10 @@ namespace ScientificCalculator
             this.number3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number3.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number3.Location = new System.Drawing.Point(245, 514);
+            this.number3.Location = new System.Drawing.Point(196, 411);
+            this.number3.Margin = new System.Windows.Forms.Padding(2);
             this.number3.Name = "number3";
-            this.number3.Size = new System.Drawing.Size(72, 72);
+            this.number3.Size = new System.Drawing.Size(58, 58);
             this.number3.TabIndex = 2;
             this.number3.Text = "3";
             this.number3.UseVisualStyleBackColor = false;
@@ -111,9 +114,10 @@ namespace ScientificCalculator
             this.number4.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number4.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number4.Location = new System.Drawing.Point(93, 438);
+            this.number4.Location = new System.Drawing.Point(74, 350);
+            this.number4.Margin = new System.Windows.Forms.Padding(2);
             this.number4.Name = "number4";
-            this.number4.Size = new System.Drawing.Size(72, 72);
+            this.number4.Size = new System.Drawing.Size(58, 58);
             this.number4.TabIndex = 3;
             this.number4.Text = "4";
             this.number4.UseVisualStyleBackColor = false;
@@ -124,9 +128,10 @@ namespace ScientificCalculator
             this.number5.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number5.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number5.Location = new System.Drawing.Point(169, 438);
+            this.number5.Location = new System.Drawing.Point(135, 350);
+            this.number5.Margin = new System.Windows.Forms.Padding(2);
             this.number5.Name = "number5";
-            this.number5.Size = new System.Drawing.Size(72, 72);
+            this.number5.Size = new System.Drawing.Size(58, 58);
             this.number5.TabIndex = 4;
             this.number5.Text = "5";
             this.number5.UseVisualStyleBackColor = false;
@@ -137,9 +142,10 @@ namespace ScientificCalculator
             this.number6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number6.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number6.Location = new System.Drawing.Point(245, 438);
+            this.number6.Location = new System.Drawing.Point(196, 350);
+            this.number6.Margin = new System.Windows.Forms.Padding(2);
             this.number6.Name = "number6";
-            this.number6.Size = new System.Drawing.Size(72, 72);
+            this.number6.Size = new System.Drawing.Size(58, 58);
             this.number6.TabIndex = 5;
             this.number6.Text = "6";
             this.number6.UseVisualStyleBackColor = false;
@@ -150,9 +156,10 @@ namespace ScientificCalculator
             this.number7.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number7.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number7.Location = new System.Drawing.Point(93, 362);
+            this.number7.Location = new System.Drawing.Point(74, 290);
+            this.number7.Margin = new System.Windows.Forms.Padding(2);
             this.number7.Name = "number7";
-            this.number7.Size = new System.Drawing.Size(72, 72);
+            this.number7.Size = new System.Drawing.Size(58, 58);
             this.number7.TabIndex = 6;
             this.number7.Text = "7";
             this.number7.UseVisualStyleBackColor = false;
@@ -163,9 +170,10 @@ namespace ScientificCalculator
             this.number8.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number8.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number8.Location = new System.Drawing.Point(169, 362);
+            this.number8.Location = new System.Drawing.Point(135, 290);
+            this.number8.Margin = new System.Windows.Forms.Padding(2);
             this.number8.Name = "number8";
-            this.number8.Size = new System.Drawing.Size(72, 72);
+            this.number8.Size = new System.Drawing.Size(58, 58);
             this.number8.TabIndex = 7;
             this.number8.Text = "8";
             this.number8.UseVisualStyleBackColor = false;
@@ -176,9 +184,10 @@ namespace ScientificCalculator
             this.number9.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number9.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number9.Location = new System.Drawing.Point(245, 362);
+            this.number9.Location = new System.Drawing.Point(196, 290);
+            this.number9.Margin = new System.Windows.Forms.Padding(2);
             this.number9.Name = "number9";
-            this.number9.Size = new System.Drawing.Size(72, 72);
+            this.number9.Size = new System.Drawing.Size(58, 58);
             this.number9.TabIndex = 8;
             this.number9.Text = "9";
             this.number9.UseVisualStyleBackColor = false;
@@ -189,9 +198,10 @@ namespace ScientificCalculator
             this.multSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.multSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.multSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.multSign.Location = new System.Drawing.Point(321, 362);
+            this.multSign.Location = new System.Drawing.Point(257, 290);
+            this.multSign.Margin = new System.Windows.Forms.Padding(2);
             this.multSign.Name = "multSign";
-            this.multSign.Size = new System.Drawing.Size(72, 72);
+            this.multSign.Size = new System.Drawing.Size(58, 58);
             this.multSign.TabIndex = 9;
             this.multSign.Text = "X";
             this.multSign.UseVisualStyleBackColor = false;
@@ -202,9 +212,10 @@ namespace ScientificCalculator
             this.minusSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.minusSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.minusSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.minusSign.Location = new System.Drawing.Point(321, 438);
+            this.minusSign.Location = new System.Drawing.Point(257, 350);
+            this.minusSign.Margin = new System.Windows.Forms.Padding(2);
             this.minusSign.Name = "minusSign";
-            this.minusSign.Size = new System.Drawing.Size(72, 72);
+            this.minusSign.Size = new System.Drawing.Size(58, 58);
             this.minusSign.TabIndex = 10;
             this.minusSign.Text = "-";
             this.minusSign.UseVisualStyleBackColor = false;
@@ -215,9 +226,10 @@ namespace ScientificCalculator
             this.plusSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.plusSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.plusSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.plusSign.Location = new System.Drawing.Point(321, 514);
+            this.plusSign.Location = new System.Drawing.Point(257, 411);
+            this.plusSign.Margin = new System.Windows.Forms.Padding(2);
             this.plusSign.Name = "plusSign";
-            this.plusSign.Size = new System.Drawing.Size(72, 72);
+            this.plusSign.Size = new System.Drawing.Size(58, 58);
             this.plusSign.TabIndex = 11;
             this.plusSign.Text = "+";
             this.plusSign.UseVisualStyleBackColor = false;
@@ -228,9 +240,10 @@ namespace ScientificCalculator
             this.equalSign.BackColor = System.Drawing.SystemColors.Highlight;
             this.equalSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.equalSign.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.equalSign.Location = new System.Drawing.Point(321, 590);
+            this.equalSign.Location = new System.Drawing.Point(257, 472);
+            this.equalSign.Margin = new System.Windows.Forms.Padding(2);
             this.equalSign.Name = "equalSign";
-            this.equalSign.Size = new System.Drawing.Size(72, 72);
+            this.equalSign.Size = new System.Drawing.Size(58, 58);
             this.equalSign.TabIndex = 12;
             this.equalSign.Text = "=";
             this.equalSign.UseVisualStyleBackColor = false;
@@ -240,9 +253,10 @@ namespace ScientificCalculator
             this.periodSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.periodSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.periodSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.periodSign.Location = new System.Drawing.Point(245, 590);
+            this.periodSign.Location = new System.Drawing.Point(196, 472);
+            this.periodSign.Margin = new System.Windows.Forms.Padding(2);
             this.periodSign.Name = "periodSign";
-            this.periodSign.Size = new System.Drawing.Size(72, 72);
+            this.periodSign.Size = new System.Drawing.Size(58, 58);
             this.periodSign.TabIndex = 13;
             this.periodSign.Text = ".";
             this.periodSign.UseVisualStyleBackColor = false;
@@ -253,9 +267,10 @@ namespace ScientificCalculator
             this.number0.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.number0.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.number0.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.number0.Location = new System.Drawing.Point(169, 590);
+            this.number0.Location = new System.Drawing.Point(135, 472);
+            this.number0.Margin = new System.Windows.Forms.Padding(2);
             this.number0.Name = "number0";
-            this.number0.Size = new System.Drawing.Size(72, 72);
+            this.number0.Size = new System.Drawing.Size(58, 58);
             this.number0.TabIndex = 14;
             this.number0.Text = "0";
             this.number0.UseVisualStyleBackColor = false;
@@ -266,9 +281,10 @@ namespace ScientificCalculator
             this.negateSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.negateSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.negateSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.negateSign.Location = new System.Drawing.Point(93, 590);
+            this.negateSign.Location = new System.Drawing.Point(74, 472);
+            this.negateSign.Margin = new System.Windows.Forms.Padding(2);
             this.negateSign.Name = "negateSign";
-            this.negateSign.Size = new System.Drawing.Size(72, 72);
+            this.negateSign.Size = new System.Drawing.Size(58, 58);
             this.negateSign.TabIndex = 15;
             this.negateSign.Text = "+/-";
             this.negateSign.UseVisualStyleBackColor = false;
@@ -278,9 +294,10 @@ namespace ScientificCalculator
             this.lnFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lnFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lnFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lnFunction.Location = new System.Drawing.Point(17, 590);
+            this.lnFunction.Location = new System.Drawing.Point(14, 472);
+            this.lnFunction.Margin = new System.Windows.Forms.Padding(2);
             this.lnFunction.Name = "lnFunction";
-            this.lnFunction.Size = new System.Drawing.Size(72, 72);
+            this.lnFunction.Size = new System.Drawing.Size(58, 58);
             this.lnFunction.TabIndex = 16;
             this.lnFunction.Text = "ln";
             this.lnFunction.UseVisualStyleBackColor = false;
@@ -291,9 +308,10 @@ namespace ScientificCalculator
             this.logFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.logFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.logFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.logFunction.Location = new System.Drawing.Point(17, 514);
+            this.logFunction.Location = new System.Drawing.Point(14, 411);
+            this.logFunction.Margin = new System.Windows.Forms.Padding(2);
             this.logFunction.Name = "logFunction";
-            this.logFunction.Size = new System.Drawing.Size(72, 72);
+            this.logFunction.Size = new System.Drawing.Size(58, 58);
             this.logFunction.TabIndex = 17;
             this.logFunction.Text = "log";
             this.logFunction.UseVisualStyleBackColor = false;
@@ -304,9 +322,10 @@ namespace ScientificCalculator
             this.rootFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.rootFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.rootFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.rootFunction.Location = new System.Drawing.Point(93, 286);
+            this.rootFunction.Location = new System.Drawing.Point(74, 229);
+            this.rootFunction.Margin = new System.Windows.Forms.Padding(2);
             this.rootFunction.Name = "rootFunction";
-            this.rootFunction.Size = new System.Drawing.Size(72, 72);
+            this.rootFunction.Size = new System.Drawing.Size(58, 58);
             this.rootFunction.TabIndex = 18;
             this.rootFunction.Text = "√x";
             this.rootFunction.UseVisualStyleBackColor = false;
@@ -317,9 +336,10 @@ namespace ScientificCalculator
             this.absoluteValueFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.absoluteValueFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.absoluteValueFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.absoluteValueFunction.Location = new System.Drawing.Point(169, 286);
+            this.absoluteValueFunction.Location = new System.Drawing.Point(135, 229);
+            this.absoluteValueFunction.Margin = new System.Windows.Forms.Padding(2);
             this.absoluteValueFunction.Name = "absoluteValueFunction";
-            this.absoluteValueFunction.Size = new System.Drawing.Size(72, 72);
+            this.absoluteValueFunction.Size = new System.Drawing.Size(58, 58);
             this.absoluteValueFunction.TabIndex = 19;
             this.absoluteValueFunction.Text = "|x|";
             this.absoluteValueFunction.UseVisualStyleBackColor = false;
@@ -329,9 +349,10 @@ namespace ScientificCalculator
             this.tenpowerxFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.tenpowerxFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.tenpowerxFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tenpowerxFunction.Location = new System.Drawing.Point(17, 438);
+            this.tenpowerxFunction.Location = new System.Drawing.Point(14, 350);
+            this.tenpowerxFunction.Margin = new System.Windows.Forms.Padding(2);
             this.tenpowerxFunction.Name = "tenpowerxFunction";
-            this.tenpowerxFunction.Size = new System.Drawing.Size(72, 72);
+            this.tenpowerxFunction.Size = new System.Drawing.Size(58, 58);
             this.tenpowerxFunction.TabIndex = 20;
             this.tenpowerxFunction.Text = "10^x";
             this.tenpowerxFunction.UseVisualStyleBackColor = false;
@@ -342,9 +363,10 @@ namespace ScientificCalculator
             this.xpoweryFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.xpoweryFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.xpoweryFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.xpoweryFunction.Location = new System.Drawing.Point(17, 362);
+            this.xpoweryFunction.Location = new System.Drawing.Point(14, 290);
+            this.xpoweryFunction.Margin = new System.Windows.Forms.Padding(2);
             this.xpoweryFunction.Name = "xpoweryFunction";
-            this.xpoweryFunction.Size = new System.Drawing.Size(72, 72);
+            this.xpoweryFunction.Size = new System.Drawing.Size(58, 58);
             this.xpoweryFunction.TabIndex = 21;
             this.xpoweryFunction.Text = "x^y";
             this.xpoweryFunction.UseVisualStyleBackColor = false;
@@ -355,9 +377,10 @@ namespace ScientificCalculator
             this.xsquaredFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.xsquaredFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.xsquaredFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.xsquaredFunction.Location = new System.Drawing.Point(17, 286);
+            this.xsquaredFunction.Location = new System.Drawing.Point(14, 229);
+            this.xsquaredFunction.Margin = new System.Windows.Forms.Padding(2);
             this.xsquaredFunction.Name = "xsquaredFunction";
-            this.xsquaredFunction.Size = new System.Drawing.Size(72, 72);
+            this.xsquaredFunction.Size = new System.Drawing.Size(58, 58);
             this.xsquaredFunction.TabIndex = 22;
             this.xsquaredFunction.Text = "x^2";
             this.xsquaredFunction.UseVisualStyleBackColor = false;
@@ -368,9 +391,10 @@ namespace ScientificCalculator
             this.divisionSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.divisionSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.divisionSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.divisionSign.Location = new System.Drawing.Point(321, 286);
+            this.divisionSign.Location = new System.Drawing.Point(257, 229);
+            this.divisionSign.Margin = new System.Windows.Forms.Padding(2);
             this.divisionSign.Name = "divisionSign";
-            this.divisionSign.Size = new System.Drawing.Size(72, 72);
+            this.divisionSign.Size = new System.Drawing.Size(58, 58);
             this.divisionSign.TabIndex = 23;
             this.divisionSign.Text = "/";
             this.divisionSign.UseVisualStyleBackColor = false;
@@ -381,69 +405,80 @@ namespace ScientificCalculator
             this.nfactorialFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.nfactorialFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.nfactorialFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.nfactorialFunction.Location = new System.Drawing.Point(245, 286);
+            this.nfactorialFunction.Location = new System.Drawing.Point(196, 229);
+            this.nfactorialFunction.Margin = new System.Windows.Forms.Padding(2);
             this.nfactorialFunction.Name = "nfactorialFunction";
-            this.nfactorialFunction.Size = new System.Drawing.Size(72, 72);
+            this.nfactorialFunction.Size = new System.Drawing.Size(58, 58);
             this.nfactorialFunction.TabIndex = 24;
             this.nfactorialFunction.Text = "n!";
             this.nfactorialFunction.UseVisualStyleBackColor = false;
+            this.nfactorialFunction.Click += new System.EventHandler(this.nfactorialFunction_Click);
             // 
             // sinFunction
             // 
             this.sinFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.sinFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.sinFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.sinFunction.Location = new System.Drawing.Point(17, 204);
+            this.sinFunction.Location = new System.Drawing.Point(14, 163);
+            this.sinFunction.Margin = new System.Windows.Forms.Padding(2);
             this.sinFunction.Name = "sinFunction";
-            this.sinFunction.Size = new System.Drawing.Size(190, 35);
+            this.sinFunction.Size = new System.Drawing.Size(152, 28);
             this.sinFunction.TabIndex = 25;
             this.sinFunction.Text = "sin";
             this.sinFunction.UseVisualStyleBackColor = false;
+            this.sinFunction.Click += new System.EventHandler(this.sinFunction_Click);
             // 
             // cosFunction
             // 
             this.cosFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.cosFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.cosFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cosFunction.Location = new System.Drawing.Point(17, 245);
+            this.cosFunction.Location = new System.Drawing.Point(14, 196);
+            this.cosFunction.Margin = new System.Windows.Forms.Padding(2);
             this.cosFunction.Name = "cosFunction";
-            this.cosFunction.Size = new System.Drawing.Size(190, 35);
+            this.cosFunction.Size = new System.Drawing.Size(152, 28);
             this.cosFunction.TabIndex = 26;
             this.cosFunction.Text = "cos";
             this.cosFunction.UseVisualStyleBackColor = false;
+            this.cosFunction.Click += new System.EventHandler(this.cosFunction_Click);
             // 
             // tanFunction
             // 
             this.tanFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.tanFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.tanFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tanFunction.Location = new System.Drawing.Point(213, 204);
+            this.tanFunction.Location = new System.Drawing.Point(170, 163);
+            this.tanFunction.Margin = new System.Windows.Forms.Padding(2);
             this.tanFunction.Name = "tanFunction";
-            this.tanFunction.Size = new System.Drawing.Size(180, 35);
+            this.tanFunction.Size = new System.Drawing.Size(144, 28);
             this.tanFunction.TabIndex = 27;
             this.tanFunction.Text = "tan";
             this.tanFunction.UseVisualStyleBackColor = false;
+            this.tanFunction.Click += new System.EventHandler(this.tanFunction_Click);
             // 
             // cotFunction
             // 
             this.cotFunction.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.cotFunction.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.cotFunction.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cotFunction.Location = new System.Drawing.Point(213, 245);
+            this.cotFunction.Location = new System.Drawing.Point(170, 196);
+            this.cotFunction.Margin = new System.Windows.Forms.Padding(2);
             this.cotFunction.Name = "cotFunction";
-            this.cotFunction.Size = new System.Drawing.Size(180, 35);
+            this.cotFunction.Size = new System.Drawing.Size(144, 28);
             this.cotFunction.TabIndex = 28;
             this.cotFunction.Text = "cot";
             this.cotFunction.UseVisualStyleBackColor = false;
+            this.cotFunction.Click += new System.EventHandler(this.cotFunction_Click);
             // 
             // backspaceSign
             // 
             this.backspaceSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.backspaceSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.backspaceSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.backspaceSign.Location = new System.Drawing.Point(321, 126);
+            this.backspaceSign.Location = new System.Drawing.Point(257, 101);
+            this.backspaceSign.Margin = new System.Windows.Forms.Padding(2);
             this.backspaceSign.Name = "backspaceSign";
-            this.backspaceSign.Size = new System.Drawing.Size(72, 72);
+            this.backspaceSign.Size = new System.Drawing.Size(58, 58);
             this.backspaceSign.TabIndex = 29;
             this.backspaceSign.Text = "C";
             this.backspaceSign.UseVisualStyleBackColor = false;
@@ -454,33 +489,38 @@ namespace ScientificCalculator
             this.piSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.piSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.piSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.piSign.Location = new System.Drawing.Point(17, 126);
+            this.piSign.Location = new System.Drawing.Point(14, 101);
+            this.piSign.Margin = new System.Windows.Forms.Padding(2);
             this.piSign.Name = "piSign";
-            this.piSign.Size = new System.Drawing.Size(72, 72);
+            this.piSign.Size = new System.Drawing.Size(58, 58);
             this.piSign.TabIndex = 30;
             this.piSign.Text = "π ";
             this.piSign.UseVisualStyleBackColor = false;
+            this.piSign.Click += new System.EventHandler(this.piSign_Click);
             // 
             // eSign
             // 
             this.eSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.eSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.eSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.eSign.Location = new System.Drawing.Point(93, 126);
+            this.eSign.Location = new System.Drawing.Point(74, 101);
+            this.eSign.Margin = new System.Windows.Forms.Padding(2);
             this.eSign.Name = "eSign";
-            this.eSign.Size = new System.Drawing.Size(72, 72);
+            this.eSign.Size = new System.Drawing.Size(58, 58);
             this.eSign.TabIndex = 31;
             this.eSign.Text = "e";
             this.eSign.UseVisualStyleBackColor = false;
+            this.eSign.Click += new System.EventHandler(this.eSign_Click);
             // 
             // upperValueSign
             // 
             this.upperValueSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.upperValueSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.upperValueSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.upperValueSign.Location = new System.Drawing.Point(169, 126);
+            this.upperValueSign.Location = new System.Drawing.Point(135, 101);
+            this.upperValueSign.Margin = new System.Windows.Forms.Padding(2);
             this.upperValueSign.Name = "upperValueSign";
-            this.upperValueSign.Size = new System.Drawing.Size(72, 72);
+            this.upperValueSign.Size = new System.Drawing.Size(58, 58);
             this.upperValueSign.TabIndex = 32;
             this.upperValueSign.Text = "ceil";
             this.upperValueSign.UseVisualStyleBackColor = false;
@@ -490,38 +530,41 @@ namespace ScientificCalculator
             this.lowerValueSign.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lowerValueSign.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lowerValueSign.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lowerValueSign.Location = new System.Drawing.Point(245, 126);
+            this.lowerValueSign.Location = new System.Drawing.Point(196, 101);
+            this.lowerValueSign.Margin = new System.Windows.Forms.Padding(2);
             this.lowerValueSign.Name = "lowerValueSign";
-            this.lowerValueSign.Size = new System.Drawing.Size(72, 72);
+            this.lowerValueSign.Size = new System.Drawing.Size(58, 58);
             this.lowerValueSign.TabIndex = 33;
             this.lowerValueSign.Text = "floor";
             this.lowerValueSign.UseVisualStyleBackColor = false;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(17, 65);
+            this.textBox1.Location = new System.Drawing.Point(14, 52);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(376, 55);
+            this.textBox1.Size = new System.Drawing.Size(302, 45);
             this.textBox1.TabIndex = 34;
+            this.textBox1.Text = "0";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 10F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(17, 20);
+            this.label1.Location = new System.Drawing.Point(14, 16);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(64, 28);
+            this.label1.Size = new System.Drawing.Size(0, 23);
             this.label1.TabIndex = 35;
-            this.label1.Text = "label1";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(405, 674);
+            this.ClientSize = new System.Drawing.Size(326, 539);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.lowerValueSign);
@@ -558,8 +601,10 @@ namespace ScientificCalculator
             this.Controls.Add(this.number3);
             this.Controls.Add(this.number2);
             this.Controls.Add(this.number1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

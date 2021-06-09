@@ -104,32 +104,32 @@ namespace ScientificCalculator
         }
         private void basicoperands(String name)
         {
-            
-            label1.Text = textBox1.Text + name;
-
+            label1.Text = label1.Text + textBox1.Text + name;
+            textBox1.Clear();
         }
         private void otheroperands(String name)
         {
-            label1.Text = name + "(" + textBox1.Text + ")"; // voa e za log (x) ln (x) factorial (x)
+            label1.Text = label1.Text + name + "(" + textBox1.Text + ")"; // voa e za log (x), ln (x), factorial (x), trigonometriskite
+            textBox1.Clear();
         }
         private void multSign_Click(object sender, EventArgs e)
         {
-            basicoperands(multSign.Name);
+            basicoperands(multSign.Text);
         }
 
         private void divisionSign_Click(object sender, EventArgs e)
         {
-            basicoperands(divisionSign.Name);
+            basicoperands(divisionSign.Text);
         }
 
         private void minusSign_Click(object sender, EventArgs e)
         {
-            basicoperands(minusSign.Name);
+            basicoperands(minusSign.Text);
         }
 
         private void plusSign_Click(object sender, EventArgs e)
         {
-            basicoperands(plusSign.Name);
+            basicoperands(plusSign.Text);
         }
 
         private void rootFunction_Click(object sender, EventArgs e)
@@ -149,17 +149,110 @@ namespace ScientificCalculator
 
         private void logFunction_Click(object sender, EventArgs e)
         {
-            otheroperands(logFunction.Name);
+            if (textBox1.Text != "")
+            {
+                otheroperands(logFunction.Text);
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
         }
 
         private void lnFunction_Click(object sender, EventArgs e)
         {
-            otheroperands(lnFunction.Name);
+            if (textBox1.Text != "")
+            {
+                otheroperands(lnFunction.Text);
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
         }
 
         private void xsquaredFunction_Click(object sender, EventArgs e)
         {
             otheroperands(xsquaredFunction.Name);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nfactorialFunction_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+            {
+                otheroperands("fact");
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
+        }
+
+        private void piSign_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "0") // za da ne se napisat brojkite vrz defaultnata nula
+                textBox1.Clear();
+            textBox1.Text = textBox1.Text + "3.14159265358979323";
+        }
+
+        private void eSign_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "0") // za da ne se napisat brojkite vrz defaultnata nula
+                textBox1.Clear();
+            textBox1.Text = textBox1.Text + "2.71828182845904523";
+        }
+
+        private void sinFunction_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+            {
+                otheroperands(sinFunction.Text);
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
+        }
+
+        private void tanFunction_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+            {
+                otheroperands(tanFunction.Text);
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
+        }
+
+        private void cosFunction_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != "")
+            {
+                otheroperands(cosFunction.Text);
+            }
+            else
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
+        }
+
+        private void cotFunction_Click(object sender, EventArgs e)
+        {
+            if(textBox1.Text != "")
+            {
+                otheroperands(cotFunction.Text);
+            }
+            else 
+            {
+                MessageBox.Show("Мора да внесете бројка прво");
+            }
         }
     }
 }
