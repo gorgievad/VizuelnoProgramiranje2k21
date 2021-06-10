@@ -21,3 +21,12 @@ C:\Users\user\Desktop\Vizuelno proekt\VizuelnoProgramiranje2k21\ScientificCalcul
 C:\Users\user\Desktop\Vizuelno proekt\VizuelnoProgramiranje2k21\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.dll
 C:\Users\user\Desktop\Vizuelno proekt\VizuelnoProgramiranje2k21\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.pdb
 C:\Users\user\Desktop\Vizuelno proekt\VizuelnoProgramiranje2k21\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.genruntimeconfig.cache
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.exe
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.deps.json
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.json
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.dev.json
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.dll
+C:\Users\user\ScientificCalculator\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.pdb
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.dll
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.pdb
+C:\Users\user\ScientificCalculator\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.genruntimeconfig.cache
