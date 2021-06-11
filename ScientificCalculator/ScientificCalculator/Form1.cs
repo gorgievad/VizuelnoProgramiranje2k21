@@ -156,14 +156,14 @@ namespace ScientificCalculator
         { // za da dozvole samo 1 zapirka da moze se napise kaj decimalnite
             if (textBox1.Text.Contains(",") == false)
                 textBox1.Text = textBox1.Text + ",";
-            prev = Double.Parse(textBox1.Text);
+            //prev = Double.Parse(textBox1.Text);
             done = false;
         }
         private void basicoperands(String name)
         {
             if (textBox1.Text != "")
             {
-                saved = Convert.ToDouble(textBox1.Text);
+                saved = Double.Parse(textBox1.Text);
             }
             switch (name)
             {
