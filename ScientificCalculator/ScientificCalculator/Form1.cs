@@ -40,8 +40,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "3";
-            //prev = 3;
+            textBox1.Text = textBox1.Text + "3";        
         }
 
         private void number8_Click(object sender, EventArgs e)
@@ -52,8 +51,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "8";
-            //prev = 8;
+            textBox1.Text = textBox1.Text + "8";     
         }
 
         private void number7_Click(object sender, EventArgs e)
@@ -64,8 +62,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "7";
-            //prev = 7;
+            textBox1.Text = textBox1.Text + "7";          
         }
 
         private void number6_Click(object sender, EventArgs e)
@@ -76,8 +73,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "6";
-            //prev = 6;
+            textBox1.Text = textBox1.Text + "6";           
         }
 
         private void number5_Click(object sender, EventArgs e)
@@ -88,8 +84,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "5";
-            //prev = 5;
+            textBox1.Text = textBox1.Text + "5";          
         }
 
         private void number4_Click(object sender, EventArgs e)
@@ -100,8 +95,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "4";
-            //prev = 4;
+            textBox1.Text = textBox1.Text + "4";          
         }
 
         private void number9_Click(object sender, EventArgs e)
@@ -112,8 +106,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "9";
-            //prev = 9;
+            textBox1.Text = textBox1.Text + "9";            
         }
 
         private void number2_Click(object sender, EventArgs e)
@@ -124,8 +117,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "2";
-            //prev = 2;
+            textBox1.Text = textBox1.Text + "2";            
         }
 
         private void number1_Click(object sender, EventArgs e)
@@ -136,8 +128,7 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "1";
-            //prev = 1;
+            textBox1.Text = textBox1.Text + "1";           
         }
 
         private void number0_Click(object sender, EventArgs e)
@@ -148,15 +139,13 @@ namespace ScientificCalculator
                 label1.Text = "";
             }
             done = false;
-            textBox1.Text = textBox1.Text + "0";
-            //prev = 0;
+            textBox1.Text = textBox1.Text + "0";   
         }
 
         private void periodSign_Click(object sender, EventArgs e)
         { // za da dozvole samo 1 zapirka da moze se napise kaj decimalnite
             if (textBox1.Text.Contains(",") == false)
                 textBox1.Text = textBox1.Text + ",";
-            //prev = Double.Parse(textBox1.Text);
             done = false;
         }
         private void basicoperands(String name)
@@ -328,8 +317,7 @@ namespace ScientificCalculator
                 otheroperands(xsquaredFunction.Name);
                 Double tmp = Double.Parse(textBox1.Text);
                 this.result = tmp * tmp;
-                finished(result.ToString()); // kaj via funkcii ima finished povikano oti na obicnite kalkulatori
-                                             // kaa ke stisnis odma go dava rezulatot ne mora da stisnis na ednakvoto i zatoa ima na site povikano
+                finished(result.ToString()); 
             }
             else
             {
